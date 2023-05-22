@@ -15,7 +15,7 @@ public class Main {
 		reflect in there(eclipse)...
 		*/
 		
-		System.out.printl("Edited by Olaoluwa Kayode");
+		System.out.println("Edited by Olaoluwa Kayode");
 
 	}
 
